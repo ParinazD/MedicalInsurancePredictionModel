@@ -22,7 +22,7 @@ zipp                                    3.23.0
     - mapped answers like yes/no and word descriptions of regions to understandable numbers 
     - used numpy arrays for features and labels
 - Gradient Descent
-    - Compute Cost - Used MSE 
+    - Compute Cost - Used MSE mean squared error
     - Gradiet Descent - parameters are updated, moving opposite to the gradient at a learning rate
 - Prediction
     - Calcuate the dot product between optimized weights and features test
